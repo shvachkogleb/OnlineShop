@@ -1,0 +1,17 @@
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\c_sharp\ASP\OnlineShop\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\c_sharp\ASP\OnlineShop\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
